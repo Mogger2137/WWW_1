@@ -1,6 +1,13 @@
 div{
     border: solid 5px yellow;
-    width: 200px;
-    height: 200px;
+    width: 100%;
     background: deepskyblue;
+}
+.cont{
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+}
+img{
+    max-width: 100%; !!!
 }
